@@ -1,0 +1,11 @@
+.demo2 {
+color: blue;
+font-size: initial;
+}
+button {
+    padding: 8px;
+    border: 2px  solid red;
+    color: palegoldenrod;
+    background-color: palevioletred;
+    border-radius: 100%;
+}
