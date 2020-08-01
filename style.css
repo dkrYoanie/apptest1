@@ -9,3 +9,12 @@ button {
     background-color: palevioletred;
     border-radius: 100%;
 }
+.drink {
+    background-color: lightcyan;
+    font-family: 'Gill Sans';
+    color: goldenrod;
+    border: 2px solid hotpink;
+    padding: 15px;
+    margin-top: 40px;
+    margin-bottom: 40px;
+}
